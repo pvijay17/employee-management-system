@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE folders
+.vs/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test output
+TestResults/
+coverage/
+
+# Local secrets and environment overrides
+appsettings.Local.json
+appsettings.*.local.json
